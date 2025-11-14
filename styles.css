@@ -26,3 +26,15 @@ header img {
     margin-bottom: 5px;
     size: inherit;
 }
+.carousel-inner {
+    height: 520px;
+}
+.carousel-item {
+    height: 100%;
+}
+.carousel-img-fixed {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    margin: auto;
+}
